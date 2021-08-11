@@ -1,0 +1,32 @@
+{
+  "name": "304cem-8355421-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@koa/cors": "^2.2.3",
+    "date-and-time": "^0.10.0",
+    "koa": "^2.8.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.12.3",
+    "koa2-cors": "^2.0.6",
+    "math-ceil": "^1.0.0",
+    "nodemon": "^1.19.2",
+    "password-hash": "^1.2.2",
+    "promise-mysql": "^4.1.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.coventry.ac.uk/kimh22/304CEM-8355421-Backend.git"
+  },
+  "author": "Haseong Kim",
+  "license": "ISC"
+}
