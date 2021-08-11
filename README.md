@@ -10,6 +10,6 @@ Unfortunately, I wasn't able to restore all the workflows because my university 
 
 This api was used Koa framework.
 
-I have the video clip of explanation about this api.
+I have a video clip of explanation about this api.
 
-If you are an interviewer, please email me ethankim0421@gmail.com
+If you are an interviewer and need the vide clip, please email me ethankim0421@gmail.com
